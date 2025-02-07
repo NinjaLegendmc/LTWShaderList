@@ -11,7 +11,7 @@ This Render Is Only One Well Optimized. Zink does support alot of shaders but it
 please note that iris uses:
  GL_ARB_shader_texture_lod on Desktop OpenGL or GL_EXT_shader_texture_lod on OpenGL ES/LTW and if your
  mali gpu or old Adreno gpu doesn't have this extension support it will result blank or invisible world
- when use shaders, you can try optifine instead if iris but note that it is still
+ when use shaders, you can try optifine instead of iris but note that it is still
  not guaranteed that the shaders will work on optifine as well as optifine also required some
  some extension like that, hope so you understand 
 ## Indicato
