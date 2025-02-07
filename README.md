@@ -10,9 +10,9 @@ This Render Is Only One Well Optimized. Zink does support alot of shaders but it
 ## iris compatibility with mali gpus and old adreno gpus & blank, invisible world
 please note that iris uses:
  GL_ARB_shader_texture_lod on Desktop OpenGL or GL_EXT_shader_texture_lod on OpenGL ES/LTW and if your
- mali gpu or old Adreno gpu doesn't have this extension support it will result blank invisible world
+ mali gpu or old Adreno gpu doesn't have this extension support it will result blank or invisible world
  when use shaders, you csn try optifine instead if iris but note that it is still
- not guaranteed that the sahders will work on optifine as well as optifine also required some
+ not guaranteed that the shaders will work on optifine as well as optifine also required some
  some extension like that, hope so you understand 
 ## Indicato
 ✅ No Bug
