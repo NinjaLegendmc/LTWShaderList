@@ -14,10 +14,11 @@ please note that iris uses:
  when use shaders, you can try optifine instead of iris but note that it is still
  not guaranteed that the shaders will work on optifine as well as optifine also required some
  some extension like that, hope so you understand 
-## Indicato
+## Indicators 
 ✅ No Bug
 ⚠️ Minor Bugs
 ❗ Major Bugs
+💀 shader not working 
 ## Note
 This list also lists shader that has bugs, but not critical bugs.
 
@@ -31,5 +32,5 @@ Since The List Maintainer is only myself. The shaders on list may have undiscove
 |⚠️|BSL Original|[Modrinth](https://modrinth.com/shader/bsl-shaders)|No Water Reflection, AO Shadow line bug (MALI)|20-01-2025|Poco X6 Pro|
 |⚠️|BSL Classic|[Modrinth](https://modrinth.com/shader/bsl-shaders-classic)|No Water Reflection, AO Shadow line bug (MALI)|20-01-2025|Poco X6 Pro|
 |✅|MakeUp-UltraFast|[Modrinth](https://modrinth.com/shader/makeup-ultra-fast-shaders)|None|20-01-2025|Poco X6 Pro|
-|⚠️| ComplementaryUnbound & Reimagined|[Modrinth](https://modrinth.com/shader/complementary-unbound & https://modrinth.com/shader/complementary-reimagined)|Shader not working due to Error Unexpected error while creating framebuffer: Draw buffers [0, 1, 2] Status: 36054, modern adreno gups like adreno 7xx probably works fine|11-02-2025|Vivo y100a|
+|💀| ComplementaryUnbound & Reimagined|[Modrinth](https://modrinth.com/shader/complementary-unbound & https://modrinth.com/shader/complementary-reimagined)|Shader not working due to Error Unexpected error while creating framebuffer: Draw buffers [0, 1, 2] Status: 36054, modern adreno gups like adreno 7xx probably works fine|11-02-2025|Vivo y100a|
 |✅| Mellow-Shader|[Modrinth](https://modrinth.com/shader/mellow)|None|11-02-2025|Vivo y100a|
