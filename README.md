@@ -31,5 +31,5 @@ Since The List Maintainer is only myself. The shaders on list may have undiscove
 |⚠️|BSL Original|[Modrinth](https://modrinth.com/shader/bsl-shaders)|No Water Reflection, AO Shadow line bug (MALI)|20-01-2025|Poco X6 Pro|
 |⚠️|BSL Classic|[Modrinth](https://modrinth.com/shader/bsl-shaders-classic)|No Water Reflection, AO Shadow line bug (MALI)|20-01-2025|Poco X6 Pro|
 |✅|MakeUp-UltraFast|[Modrinth](https://modrinth.com/shader/makeup-ultra-fast-shaders)|None|20-01-2025|Poco X6 Pro|
-|⚠️| ComplementaryUnbound & Reimagined|[Modrinth](https://modrinth.com/shader/complementary-unbound & https://modrinth.com/shader/complementary-reimagined)|Error: Unexpected error while creating framebuffer: Draw buffers [0, 1, 2] Status: 36054, modern adreno gups like adreno 7xx probably works fine (Adreno 619)|11-02-2025|Vivo y100a|
+|⚠️| ComplementaryUnbound & Reimagined|[Modrinth](https://modrinth.com/shader/complementary-unbound & https://modrinth.com/shader/complementary-reimagined)|Shader not working due to Error Unexpected error while creating framebuffer: Draw buffers [0, 1, 2] Status: 36054, modern adreno gups like adreno 7xx probably works fine (Adreno 619)|11-02-2025|Vivo y100a|
 |✅| Mellow-Shader|[Modrinth](https://modrinth.com/shader/mellow)|None|11-02-2025|Vivo y100a|
