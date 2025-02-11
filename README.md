@@ -22,12 +22,13 @@ please note that iris uses:
 This list also lists shader that has bugs, but not critical bugs.
 
 Since The List Maintainer is only myself. The shaders on list may have undiscovered bugs due to differences of GPUs.
-**Device used:** Poco X6 Pro
-**Chipset:** Mediatek Dimensity 8300 Ultra
-**GPU:** Mali-G615
+**Device used:** Poco X6 Pro & Vuvo y100a
+**Chipset:** Mediatek Dimensity 8300 Ultra & snapdragon 695
+**GPU:** Mali-G615 & Adreno 619
 # Shader List
 | Status | Shader Name | Link | Bugs | Last Checked | Tested On |
 |--------|-------------|------|------|--------------|--------|
 |⚠️|BSL Original|[Modrinth](https://modrinth.com/shader/bsl-shaders)|No Water Reflection, AO Shadow line bug (MALI)|20-01-2025|Poco X6 Pro|
 |⚠️|BSL Classic|[Modrinth](https://modrinth.com/shader/bsl-shaders-classic)|No Water Reflection, AO Shadow line bug (MALI)|20-01-2025|Poco X6 Pro|
 |✅|MakeUp-UltraFast|[Modrinth](https://modrinth.com/shader/makeup-ultra-fast-shaders)|None|20-01-2025|Poco X6 Pro|
+|⚠️| ComplementaryUnbound & Reimagined|[Modrinth](https://modrinth.com/shader/complementary-unbound & https://modrinth.com/shader/complementary-reimagined)|Error: Unexpected error while creating framebuffer: Draw buffers [0, 1, 2] Status: 36054, modern adreno gups like adreno 7xx probably works fine (Adreno 619)|11-02-2025| Vivo y100a|
